@@ -1,3 +1,3 @@
-Hello there! 
+Hello there 👋
 
 I'll eventually add something here.
